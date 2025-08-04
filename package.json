@@ -1,0 +1,13 @@
+{
+  "name": "hello-world-package",
+  "version": "1.0.0",
+  "description": "A simple Node.js package that prints helloworld",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["simple"],
+  "author": "",
+  "license": "ISC"
+} 
